@@ -1,0 +1,9 @@
+1. ¿Es consistente el movimiento?
+Si, usando un debug.log podemos comprobar esto.
+
+5. 
+Primero añado los starter assets
+Luego añado los controles de velocidad al input action de los starter assets
+Modifico el script de starterassetsInput y el de FirstPersonController
+
+
